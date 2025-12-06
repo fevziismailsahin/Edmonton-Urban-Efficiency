@@ -14,7 +14,15 @@
 
 Unlike black-box predictions, it utilizes a transparent, custom-built **Grid-Based Spatial Analysis Algorithm** to process historical data and mathematically identify "high-risk, low-coverage" zones.
 
- **[Read the Full Technical Report (PDF)](./docs/Edmonton_Urban_Efficiency_Technical_Report.pdf)**
+## 📄 Documentation & Deliverables
+
+Here are the detailed reports and presentation decks regarding the project architecture and development process:
+
+**[Download Project Presentation (Google Drive)](https://drive.google.com/drive/folders/1DtAmPwiBxBOfxwWOUMg_PT0dU33eQn8I?usp=sharing)**
+*  **[Read the Full Technical Report (PDF)](./docs/Edmonton_Urban_Efficiency_Technical_Report.pdf)**
+*  **[View Capstone Presentation (PPTX)](./docs/Fevzi_Ismail_Sahin_Capstone_Presentation.pptx)**
+*  **[Read Final Retrospective (PDF)](./docs/Fevzi_Ismail_Sahin_Capstone_Retrospective.pdf)**
+ 
 
 ---
 ##  The Algorithm: How It "Thinks"
